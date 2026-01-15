@@ -4,3 +4,4 @@ __pycache__/
 .env
 dba_index.faiss
 chunks.pkl
+*.mp4
